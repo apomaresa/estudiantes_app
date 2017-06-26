@@ -1,0 +1,20 @@
+{
+  "name": "estudiantes_app",
+  "version": "1.0.0",
+  "description": "Web Service para administrar estudiantes",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abel Pomares Agamez",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.10.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
