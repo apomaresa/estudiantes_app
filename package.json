@@ -7,7 +7,7 @@
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Abel Pomares Agamez",
+  "author": "Abel Pomares",
   "license": "GPL-3.0",
   "dependencies": {
     "body-parser": "^1.17.2",
