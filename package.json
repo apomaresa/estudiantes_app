@@ -15,6 +15,7 @@
     "mongoose": "^4.10.8"
   },
   "devDependencies": {
+    "@architect/sandbox": "^5.0.2",
     "nodemon": "^1.11.0"
   }
 }
